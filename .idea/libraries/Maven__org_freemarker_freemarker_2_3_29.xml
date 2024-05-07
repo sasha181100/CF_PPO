@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven: org.freemarker:freemarker:2.3.29">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.29/freemarker-2.3.29.jar!/" />
+    </CLASSES>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.29/freemarker-2.3.29-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
